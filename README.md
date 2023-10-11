@@ -1,6 +1,7 @@
 # Preprocessing project BWM auto
 
-![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/BWM/main/preprocessing.jpg.png)
-
+<p align="center">
+   <img align="center" width="400" src="https://raw.githubusercontent.com/Sergiochueco-94/BWM/main/preprocessing.jpg.png" />
+</p>
 
 Data cleaning, Pre-processing and making it ready to apply ML models
